@@ -50,13 +50,7 @@ country_event = {
 			}
 		}
 	}
-<<<<<<< HEAD
 
-=======
-}
-
-	
->>>>>>> upstream/master
 	# Simeon Uros proclaims himself Tsar of the Greeks, Serbs, and Albanians and marches on Serbia
 	country_event = {
 	id = flavor_ser.2
@@ -74,7 +68,6 @@ country_event = {
 	
 	mean_time_to_happen = { months = 12 }
 	
-<<<<<<< HEAD
 	immediate = {
 		release = TSL
 		TSL = {
@@ -95,20 +88,6 @@ country_event = {
 	option = {
 		name = "flavor_ser.2.a"
 		add_treasury = 50
-=======
-	option = {
-		name = "flavor_ser.2.a"
-		SER = {
-			release = TSL 
-			define_ruler = {
-				name = "Simeon Uros"
-				dynasty = "Doukas"
-				adm = 5
-				dip = 4
-				mil = 4
-				age = 28
-				claim = 95
->>>>>>> upstream/master
 			}
 		}
 	}
